@@ -53,6 +53,7 @@ public class QueryBuilder {
     }
 
     public static void main(String[] args) {
+        //test
         QueryBuilder q = new QueryBuilder("mikelynn", "matthew1"); // Create new QueryBuilder instance and pass in credentials
         ArrayList<Location> queryResults = q.query("SELECT * FROM airports LIMIT 10");
         System.out.println(queryResults);
