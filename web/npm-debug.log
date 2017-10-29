@@ -1,0 +1,37 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'C:\\Program Files\\nodejs\\node.exe',
+1 verbose cli   'C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'run',
+1 verbose cli   'dev' ]
+2 info using npm@3.10.10
+3 info using node@v6.11.2
+4 verbose run-script [ 'predev', 'dev', 'postdev' ]
+5 info lifecycle DemoServer@1.0.0~predev: DemoServer@1.0.0
+6 silly lifecycle DemoServer@1.0.0~predev: no script for predev, continuing
+7 info lifecycle DemoServer@1.0.0~dev: DemoServer@1.0.0
+8 verbose lifecycle DemoServer@1.0.0~dev: unsafe-perm in lifecycle true
+9 verbose lifecycle DemoServer@1.0.0~dev: PATH: C:\Program Files\nodejs\node_modules\npm\bin\node-gyp-bin;C:\Users\hailviral1\Desktop\DemoServer-master\web\node_modules\.bin;C:\MINGW\MSYS\1.0\BIN;C:\MINGW\BIN;C:\PROGRAMDATA\ORACLE\JAVA\JAVAPATH;C:\Windows\SYSTEM32;C:\Windows;C:\Windows\SYSTEM32\WBEM;C:\Windows\SYSTEM32\WINDOWSPOWERSHELL\V1.0\;C:\PROGRAM FILES\MICROSOFT SQL SERVER\110\TOOLS\BINN\;C:\PROGRAM FILES\MATLAB\MATLAB PRODUCTION SERVER\R2015A\RUNTIME\WIN64;C:\PROGRAM FILES\MATLAB\MATLAB PRODUCTION SERVER\R2015A\BIN;C:\PROGRAM FILES\MATLAB\MATLAB PRODUCTION SERVER\R2015A\POLYSPACE\BIN;C:\PROGRAM FILES\GIT\CMD;C:\PROGRAM FILES (X86)\VISUAL LEAK DETECTOR\BIN\WIN32;C:\PROGRAM FILES (X86)\VISUAL LEAK DETECTOR\BIN\WIN64;C:\PROGRAM FILES (X86)\WINMERGE;C:\Program Files\PuTTY\;C:\Users\hailviral1\Documents\apache-maven-3.5.0\bin;C:\Program Files (x86)\Yarn\bin\;C:\Program Files\nodejs\;C:\Program Files\MiKTeX 2.9\miktex\bin\x64\;C:\Users\hailviral1\AppData\Local\Programs\Python\Python35-32\Scripts\;C:\Users\hailviral1\AppData\Local\Programs\Python\Python35-32\;C:\Users\hailviral1\AppData\Local\Yarn\bin;C:\Users\hailviral1\AppData\Roaming\npm
+10 verbose lifecycle DemoServer@1.0.0~dev: CWD: C:\Users\hailviral1\Desktop\DemoServer-master\web
+11 silly lifecycle DemoServer@1.0.0~dev: Args: [ '/d /s /c',
+11 silly lifecycle   'webpack-dev-server --hot --history-api-fallback --open' ]
+12 verbose stack Error: kill ENOSYS
+12 verbose stack     at exports._errnoException (util.js:1020:11)
+12 verbose stack     at process.kill (internal/process.js:190:13)
+12 verbose stack     at process.listener (C:\Program Files\nodejs\node_modules\npm\node_modules\npmlog\node_modules\gauge\node_modules\signal-exit\index.js:86:15)
+12 verbose stack     at emitNone (events.js:91:20)
+12 verbose stack     at process.emit (events.js:185:7)
+12 verbose stack     at processEmit (C:\Program Files\nodejs\node_modules\npm\node_modules\npmlog\node_modules\gauge\node_modules\signal-exit\index.js:146:32)
+12 verbose stack     at processEmit (C:\Program Files\nodejs\node_modules\npm\node_modules\npm-registry-client\node_modules\npmlog\node_modules\gauge\node_modules\signal-exit\index.js:146:32)
+12 verbose stack     at Signal.wrap.onsignal (internal/process.js:217:44)
+13 verbose cwd C:\Users\hailviral1\Desktop\DemoServer-master\web
+14 error Windows_NT 6.1.7601
+15 error argv "C:\\Program Files\\nodejs\\node.exe" "C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "run" "dev"
+16 error node v6.11.2
+17 error npm  v3.10.10
+18 error code ENOSYS
+19 error errno ENOSYS
+20 error syscall kill
+21 error kill ENOSYS
+22 error If you need help, you may report this error at:
+22 error     <https://github.com/npm/npm/issues>
+23 verbose exit [ 1, true ]
