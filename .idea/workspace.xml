@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fbd0d975-b1ad-4504-8cb2-d8034ffb2448" name="Default" comment="" />
+
+    <list default="true" id="cedb8861-c30c-4ec2-b221-75f47edeb99e" name="Default" comment="" />
+
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +65,15 @@
       <projects_view />
     </option>
   </component>
+
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/edu/csu2017fa314/DemoServer/Demo.java" />
+      </list>
+    </option>
+  </component>
+
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
@@ -258,7 +269,9 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="126000" />
+
+    <option name="totallyTimeSpent" value="118000" />
+
   </component>
   <component name="ToolWindowManager">
     <frame x="1582" y="38" width="1293" height="1042" extended-state="0" />
@@ -320,6 +333,16 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/csu2017fa314/DemoServer/Database/QueryBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="44" column="23" lean-forward="false" selection-start-line="44" selection-start-column="23" selection-end-line="44" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/csu2017fa314/DemoServer/Server/Server.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
@@ -678,6 +701,16 @@
         </state>
       </provider>
     </entry>
+
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/csu2017fa314/DemoServer/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/csu2017fa314/DemoServer/Database/QueryBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="748">
@@ -748,6 +781,7 @@
         </state>
       </provider>
     </entry>
+
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -764,5 +798,6 @@
         </state>
       </provider>
     </entry>
+
   </component>
 </project>
