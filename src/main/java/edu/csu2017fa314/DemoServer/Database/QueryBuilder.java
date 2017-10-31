@@ -9,7 +9,7 @@ import java.sql.Statement;
 import java.util.ArrayList;
 
 public class QueryBuilder {
-    rivate String user = "";
+    private String user = "";
     private String pass = "";
 
     public QueryBuilder(String user, String pass) {
