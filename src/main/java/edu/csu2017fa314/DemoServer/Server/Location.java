@@ -17,4 +17,4 @@ public class Location {
                 '}';
     }
 }
- // fix
+} // error
