@@ -18,7 +18,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/edu/csu2017fa314/DemoServer/Server/Location.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
-              <caret line="19" column="10" lean-forward="false" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -241,12 +241,12 @@
       <option name="presentableId" value="Default" />
       <updated>1511308851588</updated>
       <workItem from="1511308888926" duration="562000" />
-      <workItem from="1512368632343" duration="1068000" />
+      <workItem from="1512368632343" duration="1206000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2354000" />
+    <option name="totallyTimeSpent" value="2492000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1592" y="-8" width="1296" height="1040" extended-state="6" />
@@ -726,7 +726,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/csu2017fa314/DemoServer/Server/Location.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
-          <caret line="19" column="10" lean-forward="false" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding />
         </state>
       </provider>
